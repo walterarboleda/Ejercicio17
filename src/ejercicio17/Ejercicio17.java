@@ -22,7 +22,7 @@ public class Ejercicio17 {
        System.out.println("El area de circulo es: " + areacirculo);
        System.out.println("La longitud de la circunferencia es: " + longitudcircunferencia );
        
-       
+       System.out.println("Mensaje creado por Jcastanour");
     }
     
 }
